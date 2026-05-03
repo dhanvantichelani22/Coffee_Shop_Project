@@ -68,7 +68,7 @@ and popular products to support data-driven decision-making.
 
 <h2>📸 Project Preview</h2>
 <p align="center">
-  <img src="Img" width="600">
+  <img src="Img.png" width="600">
 </p>
 
 <hr>
