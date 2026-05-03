@@ -68,7 +68,7 @@ and popular products to support data-driven decision-making.
 
 <h2>📸 Project Preview</h2>
 <p align="center">
-  <img src="your-image-link-here" width="600">
+  <img src="https://kommodo.ai/i/Z87Qcn1Lq6S3BiOwheBy" width="600">
 </p>
 
 <hr>
@@ -81,4 +81,4 @@ helping businesses optimize operations, improve customer satisfaction, and drive
 
 <hr>
 
-<h3 align="center">✨ Made with SQL & Data Passion</h3>
+<h3 align="center">✨ Made by Dhanvanti Chelani | SQL & Data Analytics</h3>
